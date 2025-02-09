@@ -44,8 +44,9 @@
 
 ### 📌 UI 디자인
 
-UI 디자인 이미지는 개발 중이며, 아래와 같은 레이아웃을 예상하고 있습니다.  
-
+![Image](https://github.com/user-attachments/assets/de085db9-9dbe-4938-b707-27f5e75ba6c4)
+![Image](https://github.com/user-attachments/assets/b144c7fe-90f1-4e0c-9ca8-08b402c78793)
+![Image](https://github.com/user-attachments/assets/29dd7347-7004-47d6-9aee-17253906d008)
 ## 💾 백엔드 개발
 
 ### 📌 주요 기능
