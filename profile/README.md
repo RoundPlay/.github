@@ -44,9 +44,9 @@
 
 ### 📌 UI 디자인
 
-![Image](https://github.com/user-attachments/assets/de085db9-9dbe-4938-b707-27f5e75ba6c4)
-![Image](https://github.com/user-attachments/assets/b144c7fe-90f1-4e0c-9ca8-08b402c78793)
 ![Image](https://github.com/user-attachments/assets/29dd7347-7004-47d6-9aee-17253906d008)
+![Image](https://github.com/user-attachments/assets/b144c7fe-90f1-4e0c-9ca8-08b402c78793)
+![Image](https://github.com/user-attachments/assets/de085db9-9dbe-4938-b707-27f5e75ba6c4)
 ## 💾 백엔드 개발
 
 ### 📌 주요 기능
